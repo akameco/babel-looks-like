@@ -1,6 +1,6 @@
 {
   "name": "babel-looks-like",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "check babel ast",
   "license": "MIT",
   "repository": "akameco/babel-looks-like",
@@ -18,7 +18,9 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "eslint": "^4.6.0",
